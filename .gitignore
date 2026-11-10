@@ -1,0 +1,7 @@
+# Godot editor and import cache
+**/.godot/
+**/.import/
+
+# Locally exported builds
+/outputs/
+*.pck
